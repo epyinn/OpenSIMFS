@@ -1,5 +1,5 @@
 # OpenSIMFS
-Open-source re-implementation of SIMFS.
+OpenSIMFS: Open-source re-implementation of SIMFS.
 
 Memory-Style Storage (MSS) is emerging as persistent memory technologies advance. By attaching the persistent memories directly to memory bus, we enjoy DRAM-like latency and storage-like persistency.
 
